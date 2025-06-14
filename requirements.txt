@@ -1,0 +1,11 @@
+# KardexUPPEPy - Python Dependencies
+# This file contains all Python package dependencies for the project
+
+# GUI Framework
+PyQt6==6.9.1
+PyQt6-Qt6==6.9.1
+PyQt6_sip==13.10.2
+
+# Database Connector
+mysql-connector-python==9.3.0
+
