@@ -20,7 +20,9 @@ This is a personal academic project developed in Python for managing student aca
 ├── kardex.sql           # SQL file for database schema and sample data
 ├── requirements.txt     # Python dependencies
 └── main.py              # Entry point to run the application
+```
 
+## Set up a virtual environment:
 ```bash
 python3 -m venv venv
 source venv/bin/activate
